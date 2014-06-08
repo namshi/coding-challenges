@@ -12,5 +12,5 @@ share your solutions with us (you can send your fork or your gist at
 ## Challenges
 
 * [Lead Mobile Engineer](lead-mobile-engineer.md)
-* Senior API engineer
-* Senior Frontend Engineer
+* [Senior API engineer](senior-api-engineer.md)
+* [Senior Frontend Engineer](senior-frontend-engineer.md)
