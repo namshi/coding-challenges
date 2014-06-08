@@ -1,6 +1,6 @@
 # Lead Mobile Engineer
 
-## Consuming APIs with style
+## 1. Consuming APIs with style
 
 Create a simple app (min iOS version: 6) able to consume a JSON API (`/products/`) returning a list of objects as follows:
 
