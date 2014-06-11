@@ -46,7 +46,7 @@ namshi://?message=<string>
 * search product by either name or brand name
 * universal app resizing the view accordingly to iPhone, iPad and iPad mini using `autoLayout`
 
-## Clarifications
+### Clarifications
 
 The API is not available online, you don't even have to mock it, simply pretend it exists.
 
