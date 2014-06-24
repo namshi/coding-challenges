@@ -8,7 +8,7 @@ Your task is to implement a basic shopping cart for a website, following these b
 * the cart should be retrieved from the localStorage, where it's stored under the key `cart`
 * every time an action is performed on the cart, it should be persisted on the localStorage
 * the cart should only know about item IDs and their quantity
-* you will write the cart by implementing the methods of the provided cart service in the `template.js` file contained in this gist: please fork it and submit your implementation
+* you will write the cart by implementing the methods of the provided cart service in the code block below: please fork it and submit your implementation
 * it should take you less than 1 hour to come up with an implementation, but we won't put any time limit for this challenge
 
 ``` javascript
