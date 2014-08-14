@@ -4,7 +4,7 @@
 
 Have you ever heard of hackernews? If you did, you know that it looks **quite bad**:
 
-[HN](http://d1avok0lzls2w.cloudfront.net/img_uploads/SEOmoz-Hackernews-Rank.png)
+![HN](http://d1avok0lzls2w.cloudfront.net/img_uploads/SEOmoz-Hackernews-Rank.png)
 
 What we request is to write make hackernews beautiful. **Really** beautiful.
 
