@@ -101,7 +101,7 @@ In our DB, we are starting to store phone numbers associated to customers (`1 cu
 We need 3 APIs:
 
 * get all phone numbers
-* get phone numbers filtered by customer
+* get all phone numbers of a single customer
 * activate a phone number
 
 ### Challenge
