@@ -46,5 +46,5 @@ A few things to keep in mind:
 * what happens if your database becomes unavailable in the middle of your logic?
 * what happens if 2 users (A, B) transfer money to user C at the same time?
 * remember that you are working at a bank, so you need to make sure the request and the data you save are always valid and consistent
-* the only thing you will not need to validate is that the user is authorized to perform this API request. let's assume the user is logged in and carrier a cookie, with the transfer request, that ensure it comes from a legit source
+* the only thing you will not need to validate is that the user is authorized to perform this API request. let's assume the user is logged in and carries a cookie, with the transfer request, that ensures it comes from a legit source
 * please use `async / await` to handle async operations
