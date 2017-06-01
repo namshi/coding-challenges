@@ -2,7 +2,7 @@ You are working at a bank and are tasked to rewrite some
 of their APIs -- in particular, you will now need to write
 the code that transfer money between 2 accounts.
 
-The bank employees this DB structure:
+The bank employs this DB structure:
 
 ```
 TABLE transactions
