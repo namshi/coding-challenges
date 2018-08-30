@@ -63,4 +63,3 @@ app.post('/transfer', (req, res) => {
     - And so forth.
 - How do you handle and structure the errors that you return to the client?
 - Please use `async / await` to handle async operations in NodeJS implementation.
-- Bear in mind that you can receive requests from different clients: a website or the bank's mobile app.
