@@ -50,14 +50,17 @@ app.post('/transfer', (req, res) => {
 - You can change the request or the response payloads but, please, specify the reasons inside the `README.md` file.
 - Remember that you are working at a bank, so you need to make sure the request and the data you save are always valid and consistent.
 - You don't need to care about user authentication or authorization.
-* Can you deal with the fact that one customer might tap on the "transfer" button twice, by mistake?
+- Prevent that one customer might tap on the "pay/transfer" button twice by accident.
+- Try to don't make use of an ORM.
 
 ## Considerations
 
-* You can receive requests from different clients: a website or the bank's mobile app.
-* What happens if your database becomes unavailable in the middle of your logic?
-* What happens if 2 users (A, B) transfer money to user C at the same time?
-* Please use `async / await` to handle async operations in NodeJS implementation.
-* How do you handle and structure the errors that you return to the client?
-* Please think about all the different use cases.
-* Focus your attention on how to manage the logic at the database level.
+- Focus your attention on how to manage the logic at the database level.
+- Please think about all the different use cases:
+    - What happens under high concurrency?
+    - What happens if your database becomes unavailable in the middle of your logic?
+    - What happens if 2 users (A, B) transfer money to user C at the same time?
+    - And so forth.
+- How do you handle and structure the errors that you return to the client?
+- Please use `async / await` to handle async operations in NodeJS implementation.
+- Bear in mind that you can receive requests from different clients: a website or the bank's mobile app.
