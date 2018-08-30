@@ -51,7 +51,7 @@ app.post('/transfer', (req, res) => {
 - Remember that you are working at a bank, so you need to make sure the request and the data you save are always valid and consistent.
 - You don't need to care about user authentication or authorization.
 - Prevent that one customer might tap on the "pay/transfer" button twice by accident.
-- Try to don't make use of an ORM.
+- Try not to use an ORM.
 
 ## Considerations
 
