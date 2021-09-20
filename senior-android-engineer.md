@@ -88,22 +88,17 @@ Following are the configuration attributes to be supported by this widget:
 
 
 
-1) You are free to use any 3rd party libraries for Image caching/ Network client/ Navigation etc.
-
-2) The application should have a well-defined architecture such as MVP/ MVVM/ Clean.
-
-3) Unit tests are mandatory with over 85% of code coverage.
-
-4) UI tests are not mandatory but a plus to have.
-
-5) Use android material design components/ layouts.
-
-6) It is important to deliver a good UI experience - Ensure a smooth and responsive UI even in devices with less processing power.
-
-7) Identify and plug any memory leaks.
-
-8) Should cover edge cases related to API parsing, missing attributes, improper attribute types,  network issues etc.
-
+1) You are free to use any 3rd party libraries for Image caching/ Network etc.
+2) We encourage you to build this Android app in Kotlin.
+3) Application should have a well-defined architecture such as MVP/ MVVM/ Clean.
+4) Use Android Material Design Components/ Layouts.
+5) It is important to deliver a good UI experience - Ensure a smooth and responsive UI even in devices with less processing power. Show proper loaders/ progress for Image loading/ API calls etc (if applicable).
+6) Images can be of the format JPEG, PNG, GIF and WebP.
+7) REST APIs used for this challenge will work using HTTP/ HTTPS schemes.
+8) Unit tests are mandatory with over 85% of code coverage.
+9) UI tests are not mandatory but a plus to have.
+10) Identify and plug any memory leaks.
+11) Should cover edge cases related to API parsing, missing attributes, improper attribute types, network issues etc.
 
 
 [*Learn more about what our engineers do at Namshi Tech Blog*](https://tech.namshi.io/)
