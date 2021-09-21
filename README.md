@@ -18,4 +18,4 @@ share your solutions with us (you can send your fork or your gist at
 * [Senior Frontend Engineer](senior-frontend-engineer.md)
 * [Frontend Engineer](frontend-developer.md)
 * [DevOps engineer](automation.md)
-* [Senior Android Engineer](senior-android-engineer.md)
+* [Senior / Intermediate Android Engineer](senior-android-engineer.md)
