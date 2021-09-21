@@ -1,4 +1,4 @@
-# Senior/Intermdetiate Android Engineer
+# Senior/Intermediate Android Engineer
 
 
 
