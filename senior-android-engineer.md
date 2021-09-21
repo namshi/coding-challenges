@@ -100,5 +100,10 @@ Following are the configuration attributes to be supported by this widget:
 10) Identify and plug any memory leaks.
 11) Should cover edge cases related to API parsing, missing attributes, improper attribute types, network issues etc.
 
+API-1: https://demo8082631.mockable.io/content
+API-2: https://demo8082631.mockable.io/list
+API-3: https://demo8082631.mockable.io/brands (For the widget C)
+API-4: https://demo8082631.mockable.io/wedding (For the widget C)
+
 
 [*Learn more about what our engineers do at Namshi Tech Blog*](https://tech.namshi.io/)
